@@ -15,3 +15,10 @@ with col2:
     journey with unwavering determination and a desire to push the boundaries of what technology can achieve.
     """
     st.write(content)
+
+content1 = """
+Below you can find some of the apps i have built in Python. 
+Feel free to contact me!!
+"""
+
+st.write(content1)
